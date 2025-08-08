@@ -1,0 +1,3 @@
+[submodule "projects/public_cs224n_gpt"]
+	path = projects/public_cs224n_gpt
+	url = https://github.com/cfifty/public_cs224n_gpt.git
